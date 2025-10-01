@@ -32,6 +32,12 @@ In compliance with the CC BY-NC-SA license, any public distribution or sharing o
 > 
 > **Original Description Snippet:** The Quickstart Wordlist of Melanesia is designed for linguists doing preliminary fieldwork on languages in Melanesia... An innovation in this wordlist is the use of open-ended prompts that ask speakers to name as many items as they can in a particular category.
 
+## Attribution
+
+This document was created in collaboration with **Gemini**, a large language model from Google, to clearly define the data structure and licensing requirements for this repository.
+
+---
+
 ## File Contents
 
 - `QWOM2025-08.xml`: The Quickstart Worldlist of Melanesia data converted to the **Dekereke XML format**. This file is an adaptation of the original data and is covered by the CC BY-NC-SA 4.0 license. This repository contains the data structure only and does **not** contain the proprietary Dekereke application or any of its source code.
